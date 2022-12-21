@@ -1,0 +1,5 @@
+﻿    interface IGetPerson
+    {
+        string PersonID();
+    }
+
